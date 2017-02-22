@@ -1,5 +1,7 @@
-# Reduce-Algebraic-Expressions  
-Given any algebraic expression this Prolog code simplifies it into it’s most simplified form.  
+# Reduce-Algebraic-Expressions
+Along with <a href="mailto:apurva96mittal@gmail.com">Apurva Mittal</a>, this query was written as a part of a course assignment.
+
+Given any algebraic expression, this Prolog code simplifies it into it’s most simplified form.  
   
 The query to simplify expressions can be invoked as:  
   
