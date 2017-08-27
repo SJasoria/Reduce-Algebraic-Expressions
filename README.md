@@ -1,5 +1,4 @@
 # Reduce-Algebraic-Expressions
-Along with <a href="mailto:apurva96mittal@gmail.com">Apurva Mittal</a>, this query was written as a part of a course assignment.
 
 Given any algebraic expression, this Prolog code reduces it into it’s most simplified form.  
   
